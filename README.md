@@ -1,3 +1,5 @@
+Please visit https://mahmuttyildiz.github.io/YesOrNo-App/ for review.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
