@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1241b6ccdb588e8d695b0ab9249a4764",
+    "revision": "37d8dd21195bb1079cea0d205d43957a",
     "url": "/YesOrNo-App/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YesOrNo-App/static/js/2.772ab68d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54d68ea5e6da09824163",
-    "url": "/YesOrNo-App/static/js/main.ec376cff.chunk.js"
+    "revision": "ecc30c6a1807b9fde8cb",
+    "url": "/YesOrNo-App/static/js/main.b18ac384.chunk.js"
   },
   {
     "revision": "065b717b3061720850f6",

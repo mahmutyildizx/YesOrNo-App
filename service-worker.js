@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/YesOrNo-App/precache-manifest.d8cb81531c6ea5971ccab85ae24bd90e.js"
+  "/YesOrNo-App/precache-manifest.0bd7e5ed2fe4b502de1353d09c5c7a74.js"
 );
 
 self.addEventListener('message', (event) => {
