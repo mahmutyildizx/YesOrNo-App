@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/YesOrNo-App/static/js/main.ec376cff.chunk.js",
+    "main.js.map": "/YesOrNo-App/static/js/main.ec376cff.chunk.js.map",
+    "runtime-main.js": "/YesOrNo-App/static/js/runtime-main.0f8eeac0.js",
+    "runtime-main.js.map": "/YesOrNo-App/static/js/runtime-main.0f8eeac0.js.map",
+    "static/js/2.772ab68d.chunk.js": "/YesOrNo-App/static/js/2.772ab68d.chunk.js",
+    "static/js/2.772ab68d.chunk.js.map": "/YesOrNo-App/static/js/2.772ab68d.chunk.js.map",
+    "index.html": "/YesOrNo-App/index.html",
+    "precache-manifest.d8cb81531c6ea5971ccab85ae24bd90e.js": "/YesOrNo-App/precache-manifest.d8cb81531c6ea5971ccab85ae24bd90e.js",
+    "service-worker.js": "/YesOrNo-App/service-worker.js",
+    "static/js/2.772ab68d.chunk.js.LICENSE.txt": "/YesOrNo-App/static/js/2.772ab68d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f8eeac0.js",
+    "static/js/2.772ab68d.chunk.js",
+    "static/js/main.ec376cff.chunk.js"
+  ]
+}
