@@ -8,7 +8,7 @@ function App() {
     <>
     <StyledContainer>
     <StyledApp>
-      <StyledH1>Magic Eight Ball</StyledH1>
+      <StyledH1>Yes or No Game</StyledH1>
       <StyledH2>Type your question below</StyledH2>
       <SearchComponent />
     </StyledApp>

@@ -1,7 +1,12 @@
-import styled from "styled-components";
+import styled, {createGlobalStyle} from "styled-components";
+
+export const GlobalStyle = createGlobalStyle`
+  body {
+    background: #fafafa;
+  }
+`
 
 export const StyledContainer = styled.div`
-  background: #fafafa;
   min-height: 100vh;
 `;
 export const StyledApp = styled.div`
